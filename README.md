@@ -1,6 +1,6 @@
 # Open Source Software Capstone Project: The Open Source Audit
 **Course:** Open Source Software (OSS NGMC)  
-**Student:** Veera Rathi  
+**Student:** anusha tiwari  
 **Institution:** VITyarthi  
 **Target Software:** Git (Version Control System)
 
